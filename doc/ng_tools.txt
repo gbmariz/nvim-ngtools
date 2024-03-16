@@ -1,0 +1,23 @@
+*ng_tools.txt*                  ng_tools documentation
+
+Author: Gabriel Mariz <github/gabimariz>
+
+================================================================
+CONTENTS                                       *ngt* *ng_tools*
+================================================================
+
+  1. Introduction                 |ngt.introduction|
+
+================================================================
+1. INTRODUCTION                              *ngt.introduction*
+================================================================
+
+  The plugin adds @angular/cli command line functions to
+  speed up development of the framework.
+
+  To use the plugin, call the |ngt.setup()| function.
+
+================================================================
+
+vim:tw=78:ts=8:ft=help:norl
+
