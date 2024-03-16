@@ -35,6 +35,14 @@ CONTENTS                                       *ngt* *ng_tools*
         port = 4222 -- change the service's main port
       }
     }
+================================================================
+3. COMMANDS                                      *ngt.commands*
+================================================================
 
+  Angular tools offers the following commands:
+    - `:NgServe` - run ng server
+    - `:NgStop` - stop ng server
+
+================================================================
 vim:tw=78:ts=8:ft=help:norl
 
