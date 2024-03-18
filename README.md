@@ -6,7 +6,7 @@ To use the plugin, call the ngt.setup() function.
 Use your favourite dependency manager.
 
 For [lazy.nvim](https://github.com/folke/lazy.nvim)
-```
+```lua
 {
     "gbmariz/nvim-ngtools",
     dependencies = { "rcarriga/nvim-notify" },
@@ -15,7 +15,7 @@ For [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```
 
 For [pckr.nvim](https://github.com/lewis6991/pckr.nvim)
-```
+```lua
 {
     "gbmariz/nvim-ngtools",
     require = { "rcarriga/nvim-notify" }
